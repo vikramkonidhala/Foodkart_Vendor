@@ -20,7 +20,7 @@ const NavBar = () => {
         <div className="flex items-center">
           <img
             className="h-12 w-auto mx-auto max-sm:h-15"
-            src="https://i.postimg.cc/MTXKhC1h/Foo-Kart-Logo.png"
+            src="https://res.cloudinary.com/drdfwrz0i/image/upload/v1744429848/FooKart_Logo_kylcqf.png"
             alt="FoodKart"
           />
           <h3 className="text-2xl font-bold ml-2 max-sm:text-3xl">Vendor</h3>

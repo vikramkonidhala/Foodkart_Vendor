@@ -79,12 +79,12 @@ const HomePage = () => {
     <div className="text-center min-h-screen flex flex-col justify-center items-center mt-5 overflow-hidden max-sm:min-h-auto max-sm:p-4">
       <img
         className="hidden h-28 w-auto mx-auto mb-2 max-sm:block max-sm:mt-20"
-        src="https://i.postimg.cc/MTXKhC1h/Foo-Kart-Logo.png"
+        src="https://res.cloudinary.com/drdfwrz0i/image/upload/v1744429848/FooKart_Logo_kylcqf.png"
         alt="FoodKart"
       />
       <img
         className={`hidden h-28 w-auto mx-auto mb-2 sm:block ${vendor.firm ? "mt-20" : "mt-0"}`}
-        src="https://i.postimg.cc/MTXKhC1h/Foo-Kart-Logo.png"
+        src="https://res.cloudinary.com/drdfwrz0i/image/upload/v1744429848/FooKart_Logo_kylcqf.png"
         alt="FoodKart"
       />
       <h3 className="text-3xl font-bold text-gray-900 mb-4 max-sm:text-2xl">

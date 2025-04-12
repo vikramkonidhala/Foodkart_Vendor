@@ -64,7 +64,7 @@ const Login = () => {
       <div className="sm:mx-auto sm:w-full sm:max-w-sm">
         <img
           className="h-22 w-auto mx-auto"
-          src="https://i.postimg.cc/MTXKhC1h/Foo-Kart-Logo.png"
+          src="https://res.cloudinary.com/drdfwrz0i/image/upload/v1744429848/FooKart_Logo_kylcqf.png"
           alt="FoodKart"
         />
         <h2 className="mt-2 text-center text-2xl/9 font-bold tracking-tight text-gray-900">

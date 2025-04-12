@@ -5,7 +5,7 @@ const NoProductView = () => {
   return (
     <div className="flex flex-col justify-center items-center text-center gap-2 max-sm:p-3">
       <img
-        src="https://i.postimg.cc/wBrvsNxF/no-product-illustration.png"
+        src="https://res.cloudinary.com/drdfwrz0i/image/upload/v1744431154/no-product-illustration_l5wm8p.jpg"
         alt="no-products-found"
         className="h-45 sm:h-70 w-auto"
       />
